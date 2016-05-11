@@ -17,7 +17,7 @@ public class ControlVersiones {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        for (int i = 0; i<10, i++) {
+        for (int i = 0; i < 10; i++) {
             
             switch (i) {
                 
